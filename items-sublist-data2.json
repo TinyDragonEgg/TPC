@@ -1,0 +1,3683 @@
+{
+	"_meta": {
+		"internalCopies": [
+			"item"
+		]
+	},
+	"item":[
+	{
+		"name": "Horseshoes of a Zephyr",
+		"source": "ThePineappleChronicles",
+		"page": 175,
+		"srd": true,
+		"tier": "minor",
+		"rarity": "very rare", 
+		"value": 2500000,
+		"wondrous": true,
+		"entries": [
+			"These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering {@condition exhaustion} from a forced march."
+		],
+		"lootTables": [
+			"Magic Item Table D"
+		]
+	},
+	{
+		"name": "Serpent's Fang",
+		"source": "ThePineappleChronicles",
+		"page": 98,
+		"baseItem": "longsword|PHB",
+		"type": "M",
+		"rarity": "rare", 
+		"value": 250000,
+		"weight": 3,
+		"weaponCategory": "martial",
+		"property": [
+			"V"
+		],
+		"dmg1": "1d8",
+		"dmgType": "S",
+		"dmg2": "1d10",
+		"sword": true,
+		"weapon": true,
+		"entries": [
+			"This single-edged magic sword is made from the scrimshawed fang of a giant serpent. Its hilt changes shape to adjust to the grasp of any creature that picks it up. The weapon deals an extra {@damage 1d10} poison damage to any target it hits."
+		]
+	},
+	{
+		"name": "Horseshoes of Speed",
+		"source": "ThePineappleChronicles",
+		"page": 175,
+		"srd": true,
+		"tier": "minor",
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"entries": [
+			"These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 feet."
+		],
+		"lootTables": [
+			"Magic Item Table C"
+		]
+	},
+	{
+		"name": "Portable Hole",
+		"source": "ThePineappleChronicles",
+		"page": 185,
+		"srd": true,
+		"tier": "minor",
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"entries": [
+			"This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.",
+			"You can use an action to unfold a portable hole and place it on or against a solid surface, whereupon the portable hole creates an extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane, so it can't be used to create open passages. Any creature inside an open portable hole can exit the hole by climbing out of it.",
+			"You can use an action to close a portable hole by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.",
+			"If the hole is folded up, a creature within the hole's extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the portable hole or the creature carrying it. A breathing creature within a closed portable hole can survive for up to 10 minutes, after which time it begins to suffocate.",
+			"Placing a portable hole inside an extradimensional space created by a {@item bag of holding}, {@item Heward's handy haversack}, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened."
+		],
+		"lootTables": [
+			"Magic Item Table D"
+		]
+	},
+	{
+		"name": "Tankard of Sobriety",
+		"source": "ThePineappleChronicles",
+		"page": 139,
+		"tier": "minor",
+		"rarity": "common", 
+		"value": 7500,
+		"wondrous": true,
+		"entries": [
+			"This tankard has a stern face sculpted into one side. You can drink ale, wine, or any other nonmagical alcoholic beverage poured into it without becoming inebriated. The tankard has no effect on magical liquids or harmful substances such as poison."
+		]
+	},
+	{
+		"name": "Pole of Collapsing",
+		"source": "ThePineappleChronicles",
+		"page": 138,
+		"tier": "minor",
+		"rarity": "common", 
+		"value": 7500,
+		"wondrous": true,
+		"entries": [
+			"While holding this 10-foot pole, you can use an action to speak a command word and cause it to collapse into a 1-foot-long rod, for ease of storage. The pole's weight doesn't change. You can use an action to speak a different command word and cause the rod to revert to a pole; however, the rod will elongate only as far as the surrounding space allows."
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Stone of Controlling Earth Elementals",
+		"source": "ThePineappleChronicles",
+		"page": 205,
+		"srd": true,
+		"tier": "major",
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"weight": 5,
+		"entries": [
+			"If the stone is touching the ground, you can use an action to speak its command word and summon an {@creature earth elemental}, as if you had cast the {@spell conjure elemental} spell. The stone can't be used this way again until the next dawn. The stone weighs 5 pounds."
+		],
+		"attachedSpells": [
+			"conjure elemental"
+		],
+		"lootTables": [
+			"Magic Item Table G"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Censer of Controlling Air Elementals",
+		"source": "ThePineappleChronicles",
+		"page": 158,
+		"srd": true,
+		"tier": "major",
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"weight": 1,
+		"entries": [
+			"While incense is burning in this censer, you can use an action to speak the censer's command word and summon an {@creature air elemental}, as if you had cast the {@spell conjure elemental} spell. The censer can't be used this way again until the next dawn.",
+			"This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound."
+		],
+		"attachedSpells": [
+			"conjure elemental"
+		],
+		"lootTables": [
+			"Magic Item Table G"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Brazier of Commanding Fire Elementals",
+		"source": "ThePineappleChronicles",
+		"page": 156,
+		"srd": true,
+		"tier": "major",
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"weight": 5,
+		"entries": [
+			"While a fire burns in this brass brazier, you can use an action to speak the brazier's command word and summon a {@creature fire elemental}, as if you had cast the {@spell conjure elemental} spell. The brazier can't be used this way again until the next dawn.",
+			"The brazier weighs 5 pounds."
+		],
+		"attachedSpells": [
+			"conjure elemental"
+		],
+		"lootTables": [
+			"Magic Item Table G"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Bowl of Commanding Water Elementals",
+		"source": "ThePineappleChronicles",
+		"page": 156,
+		"srd": true,
+		"tier": "major",
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"weight": 3,
+		"entries": [
+			"While this bowl is filled with water, you can use an action to speak the bowl's command word and summon a {@creature water elemental}, as if you had cast the {@spell conjure elemental} spell. The bowl can't be used this way again until the next dawn.",
+			"The bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds and holds about 3 gallons."
+		],
+		"attachedSpells": [
+			"conjure elemental"
+		],
+		"lootTables": [
+			"Magic Item Table G"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Bead of Force",
+		"source": "ThePineappleChronicles",
+		"page": 154,
+		"srd": true,
+		"tier": "minor",
+		"rarity": "rare", 
+		"value": 125000,
+		"wondrous": true,
+		"weight": 0.0625,
+		"entries": [
+			"This small black sphere measures ¾ of an inch in diameter and weighs an ounce. Typically, {@dice 1d4 + 4} {@italic beads of force} are found together.",
+			"You can use an action to throw the bead up to 60 feet. The bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take {@damage 5d4} force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can.",
+			"An enclosed creature can use its action to push against the sphere's wall, moving the sphere up to half the creature's walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside."
+		],
+		"lootTables": [
+			"Magic Item Table C"
+		]
+	},
+	{
+		"name": "Elemental Gem, Blue Sapphire",
+		"source": "ThePineappleChronicles",
+		"page": 167,
+		"srd": true,
+		"tier": "minor",
+		"rarity": "uncommon", 
+		"value": 12500,
+		"wondrous": true,
+		"entries": [
+			"This gem contains a mote of elemental energy. When you use an action to break the gem, an {@creature air elemental} is summoned as if you had cast the {@spell conjure elemental} spell, and the gem's magic is lost."
+		],
+		"attachedSpells": [
+			"conjure elemental"
+		]
+	},
+	{
+		"name": "Elemental Gem, Emerald",
+		"source": "ThePineappleChronicles",
+		"page": 167,
+		"srd": true,
+		"tier": "minor",
+		"rarity": "uncommon", 
+		"value": 12500,
+		"wondrous": true,
+		"entries": [
+			"This gem contains a mote of elemental energy. When you use an action to break the gem, a {@creature water elemental} is summoned as if you had cast the {@spell conjure elemental} spell, and the gem's magic is lost."
+		],
+		"attachedSpells": [
+			"conjure elemental"
+		]
+	},
+	{
+		"name": "Elemental Gem, Red Corundum",
+		"source": "ThePineappleChronicles",
+		"page": 167,
+		"srd": true,
+		"tier": "minor",
+		"rarity": "uncommon", 
+		"value": 12500,
+		"wondrous": true,
+		"entries": [
+			"This gem contains a mote of elemental energy. When you use an action to break the gem, a {@creature fire elemental} is summoned as if you had cast the {@spell conjure elemental} spell, and the gem's magic is lost."
+		],
+		"attachedSpells": [
+			"conjure elemental"
+		]
+	},
+	{
+		"name": "Elemental Gem, Yellow Diamond",
+		"source": "ThePineappleChronicles",
+		"page": 167,
+		"srd": true,
+		"tier": "minor",
+		"rarity": "uncommon", 
+		"value": 12500,
+		"wondrous": true,
+		"entries": [
+			"This gem contains a mote of elemental energy. When you use an action to break the gem, an {@creature earth elemental} is summoned as if you had cast the {@spell conjure elemental} spell, and the gem's magic is lost."
+		],
+		"attachedSpells": [
+			"conjure elemental"
+		]
+	},
+	{
+		"name": "Bag of Tricks, Rust",
+		"source": "ThePineappleChronicles",
+		"page": 154,
+		"srd": true,
+		"tier": "major",
+		"rarity": "uncommon", 
+		"value": 25000,
+		"wondrous": true,
+		"weight": 0.5,
+		"entries": [
+			"This ordinary bag, made from rust cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.",
+			"You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a {@dice d8} and consulting the table. The creature vanishes at the next dawn or when it is reduced to 0 hit points.",
+			"The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.",
+			"Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.",
+			{
+				"type": "table",
+				"colLabels": [
+					"{@dice d8}",
+					"Creature"
+				],
+				"colStyles": [
+					"col-1 text-center",
+					"col-11"
+				],
+				"rows": [
+					[
+						"1",
+						"{@creature Rat}"
+					],
+					[
+						"2",
+						"{@creature Owl}"
+					],
+					[
+						"3",
+						"{@creature Mastiff}"
+					],
+					[
+						"4",
+						"{@creature Goat}"
+					],
+					[
+						"5",
+						"{@creature Giant goat}"
+					],
+					[
+						"6",
+						"{@creature Giant boar}"
+					],
+					[
+						"7",
+						"{@creature Lion}"
+					],
+					[
+						"8",
+						"{@creature Brown bear}"
+					]
+				]
+			}
+		],
+		"lootTables": [
+			"Magic Item Table F"
+		]
+	},
+	{
+		"name": "Bag of Tricks, Gray",
+		"source": "ThePineappleChronicles",
+		"page": 154,
+		"srd": true,
+		"tier": "major",
+		"rarity": "uncommon", 
+		"value": 25000,
+		"wondrous": true,
+		"weight": 0.5,
+		"entries": [
+			"This ordinary bag, made from gray cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.",
+			"You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a {@dice d8} and consulting the table. The creature vanishes at the next dawn or when it is reduced to 0 hit points.",
+			"The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.",
+			"Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.",
+			{
+				"type": "table",
+				"colLabels": [
+					"{@dice d8}",
+					"Creature"
+				],
+				"colStyles": [
+					"col-1 text-center",
+					"col-11"
+				],
+				"rows": [
+					[
+						"1",
+						"{@creature Weasel}"
+					],
+					[
+						"2",
+						"{@creature Giant rat}"
+					],
+					[
+						"3",
+						"{@creature Badger}"
+					],
+					[
+						"4",
+						"{@creature Boar}"
+					],
+					[
+						"5",
+						"{@creature Panther}"
+					],
+					[
+						"6",
+						"{@creature Giant badger}"
+					],
+					[
+						"7",
+						"{@creature Dire wolf}"
+					],
+					[
+						"8",
+						"{@creature Giant elk}"
+					]
+				]
+			}
+		],
+		"lootTables": [
+			"Magic Item Table F"
+		]
+	},
+	{
+		"name": "Figurine of Wondrous Power, Obsidian Steed",
+		"source": "ThePineappleChronicles",
+		"page": 170,
+		"srd": true,
+		"tier": "major",
+		"rarity": "very rare", 
+		"value": 2500000,
+		"wondrous": true,
+		"entries": [
+			"A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.",
+			"The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.",
+			"The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.",
+			"{@creature nightmare||Obsidian Steed}.",
+			"This polished obsidian horse can become a {@creature nightmare} for up to 24 hours. The {@creature nightmare} fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.",
+			"If you have a good alignment, the figurine has a {@chance 10} chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the {@creature nightmare} while it is ignoring your orders, you and the {@creature nightmare} are instantly transported to a random location on the plane of Hades, where the {@creature nightmare} reverts to figurine form."
+		],
+		"lootTables": [
+			"Magic Item Table H"
+		]
+	},
+	{
+		"name": "Ring of Swimming",
+		"source": "ThePineappleChronicles",
+		"page": 193,
+		"srd": true,
+		"type": "RG",
+		"tier": "minor",
+		"rarity": "uncommon", 
+		"value": 25000,
+		"modifySpeed": {
+			"static": {
+				"swim": 40
+			}
+		},
+		"entries": [
+			"You have a swimming speed of 40 feet while wearing this ring."
+		],
+		"lootTables": [
+			"Magic Item Table B"
+		]
+	},
+	{
+		"name": "Ring of Animal Influence",
+		"source": "ThePineappleChronicles",
+		"page": 189,
+		"srd": true,
+		"type": "RG",
+		"tier": "major",
+		"rarity": "rare", 
+		"value": 250000,
+		"recharge": "dawn",
+		"charges": 3,
+		"entries": [
+			"This ring has 3 charges, and it regains {@dice 1d3} expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells:",
+			{
+				"type": "list",
+				"items": [
+					"{@spell Animal friendship} (save DC 13)",
+					"{@spell Fear} (save DC 13), targeting only beasts that have an Intelligence of 3 or lower",
+					"{@spell Speak with animals}"
+				]
+			}
+		],
+		"attachedSpells": [
+			"animal friendship",
+			"fear",
+			"speak with animals"
+		],
+		"lootTables": [
+			"Magic Item Table G"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Helm of Teleportation",
+		"source": "ThePineappleChronicles",
+		"page": 174,
+		"srd": true,
+		"tier": "major",
+		"rarity": "rare", 
+		"value": 250000,
+		"reqAttune": true,
+		"wondrous": true,
+		"recharge": "dawn",
+		"charges": 3,
+		"entries": [
+			"This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the {@spell teleport} spell from it. The helm regains {@dice 1d3} expended charges daily at dawn."
+		],
+		"attachedSpells": [
+			"teleport"
+		],
+		"lootTables": [
+			"Magic Item Table G"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Mask of the Beast",
+		"source": "ThePineappleChronicles",
+		"page": 207,
+		"rarity": "uncommon", 
+		"value": 25000,
+		"wondrous": true,
+		"weight": 1,
+		"recharge": "dawn",
+		"charges": 3,
+		"entries": [
+			"This wooden mask is shaped in the likeness of a beast's visage and has 3 charges. While wearing the mask you can expend 1 charge and use the mask to cast the {@spell animal friendship} spell as an action. The mask regains all expended charges at dawn."
+		],
+		"attachedSpells": [
+			"animal friendship"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Saddle of the Cavalier",
+		"source": "ThePineappleChronicles",
+		"page": 199,
+		"tier": "minor",
+		"rarity": "uncommon", 
+		"value": 25000,
+		"wondrous": true,
+		"entries": [
+			"While in this saddle on a mount, you can't be dismounted against your will if you're conscious, and attack rolls against the mount have disadvantage."
+		],
+		"lootTables": [
+			"Magic Item Table B"
+		]
+	},
+	{
+		"name": "Spellwrought Tattoo (2nd Level)",
+		"source": "ThePineappleChronicles",
+		"page": 135,
+		"rarity": "uncommon", 
+		"value": 25000,
+		"wondrous": true,
+		"tattoo": true,
+		"entries": [
+			"Produced by a special needle, this magic tattoo contains a single {@filter 2nd level spell|spells|level=2}, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
+			"The Ability modifier for this spell is +3; the Save DC is 13 and the attack bonus is +5."
+		]
+	},
+	{
+		"name": "Spellwrought Tattoo (3rd Level)",
+		"source": "ThePineappleChronicles",
+		"page": 135,
+		"rarity": "uncommon", 
+		"value": 25000,
+		"wondrous": true,
+		"tattoo": true,
+		"entries": [
+			"Produced by a special needle, this magic tattoo contains a single {@filter 3rd level spell|spells|level=3}, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
+			"The Ability modifier for this spell is +4; the Save DC is 15 and the attack bonus is +7."
+		]
+	},
+	{
+		"name": "Spellwrought Tattoo (1st Level)",
+		"source": "ThePineappleChronicles",
+		"page": 135,
+		"rarity": "common", 
+		"value": 7500,
+		"wondrous": true,
+		"tattoo": true,
+		"entries": [
+			"Produced by a special needle, this magic tattoo contains a single {@filter 1st level spell|spells|level=1}, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
+			"The Ability modifier for this spell is +3; the Save DC is 13 and the attack bonus is +5."
+		]
+	},
+	{
+		"name": "Spellwrought Tattoo (Cantrip)",
+		"source": "ThePineappleChronicles",
+		"page": 135,
+		"rarity": "common", 
+		"value": 7500,
+		"wondrous": true,
+		"tattoo": true,
+		"entries": [
+			"Produced by a special needle, this magic tattoo contains a single {@filter cantrip|spells|level=0}, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
+			"The Ability modifier for this spell is +3; the Save DC is 13 and the attack bonus is +5."
+		]
+	},
+	{
+		"name": "Spellwrought Tattoo (4th Level)",
+		"source": "ThePineappleChronicles",
+		"page": 135,
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"tattoo": true,
+		"entries": [
+			"Produced by a special needle, this magic tattoo contains a single {@filter 4th level spell|spells|level=4}, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
+			"The Ability modifier for this spell is +4; the Save DC is 15 and the attack bonus is +7."
+		]
+	},
+	{
+		"name": "Spellwrought Tattoo (5th Level)",
+		"source": "ThePineappleChronicles",
+		"page": 135,
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"tattoo": true,
+		"entries": [
+			"Produced by a special needle, this magic tattoo contains a single {@filter 5th level spell|spells|level=5}, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.",
+			"The Ability modifier for this spell is +5; the Save DC is 17 and the attack bonus is +9."
+		]
+	},
+	{
+		"name": "Carpet of Flying, 6 ft. × 9 ft.",
+		"source": "ThePineappleChronicles",
+		"page": 157,
+		"srd": true,
+		"tier": "major",
+		"rarity": "very rare", 
+		"value": 2500000,
+		"wondrous": true,
+		"entries": [
+			"You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.",
+			"A 6 ft. × 9 ft. carpet can carry up to 800 lb. at a fly speed of 30 feet. A carpet can carry up to twice this weight, but it flies at half speed if it carries more than its normal capacity."
+		]
+	},
+	{
+		"name": "+3 Weapon",
+		"type": "GV",
+		"requires": [
+			{
+				"weapon": true
+			}
+		],
+		"excludes": {
+			"net": true
+		},
+		"inherits": {
+			"namePrefix": "+3 ",
+			"source": "ThePineappleChronicles",
+			"page": 213,
+			"srd": true,
+			"basicRules": true,
+			"tier": "major",
+			"rarity": "very rare", 
+		"value": 2500000,
+			"bonusWeapon": "+3",
+			"entries": [
+				"You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon."
+			],
+			"lootTables": [
+				"Magic Item Table H"
+			]
+		},
+		"source": "ThePineappleChronicles",
+		"page": 213,
+		"srd": true,
+		"basicRules": true,
+		"tier": "major",
+		"rarity": "very rare", 
+		"value": 2500000,
+		"bonusWeapon": "+3",
+		"lootTables": [
+			"Magic Item Table H"
+		],
+		"entries": [
+			"You have a +3 bonus to attack and damage rolls made with this magic weapon."
+		],
+		"variants": [
+			{
+				"base": {
+					"name": "Antimatter Rifle",
+					"source": "ThePineappleChronicles",
+					"page": 268,
+					"type": "R",
+					"rarity": "none",
+					"weight": 10,
+					"weaponCategory": "martial",
+					"age": "futuristic",
+					"property": [
+						"AF",
+						"RLD",
+						"2H"
+					],
+					"range": "120/360",
+					"reload": 2,
+					"dmg1": "6d8",
+					"dmgType": "N",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "energy cell",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Antimatter Rifle",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 10,
+					"weaponCategory": "martial",
+					"age": "futuristic",
+					"property": [
+						"AF",
+						"RLD",
+						"2H"
+					],
+					"range": "120/360",
+					"reload": 2,
+					"dmg1": "6d8",
+					"dmgType": "N",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "energy cell",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Automatic Pistol",
+					"source": "ThePineappleChronicles",
+					"page": 268,
+					"type": "R",
+					"rarity": "none",
+					"weight": 3,
+					"weaponCategory": "martial",
+					"age": "modern",
+					"property": [
+						"AF",
+						"RLD"
+					],
+					"range": "50/150",
+					"reload": 15,
+					"dmg1": "2d6",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "modern bullet",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Automatic Pistol",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 3,
+					"weaponCategory": "martial",
+					"age": "modern",
+					"property": [
+						"AF",
+						"RLD"
+					],
+					"range": "50/150",
+					"reload": 15,
+					"dmg1": "2d6",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "modern bullet",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Automatic Rifle",
+					"source": "ThePineappleChronicles",
+					"page": 268,
+					"type": "R",
+					"rarity": "none",
+					"weight": 8,
+					"weaponCategory": "martial",
+					"age": "modern",
+					"property": [
+						"AF",
+						"BF",
+						"RLD",
+						"2H"
+					],
+					"range": "80/240",
+					"reload": 30,
+					"dmg1": "2d8",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "modern bullet",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Automatic Rifle",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 8,
+					"weaponCategory": "martial",
+					"age": "modern",
+					"property": [
+						"AF",
+						"BF",
+						"RLD",
+						"2H"
+					],
+					"range": "80/240",
+					"reload": 30,
+					"dmg1": "2d8",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "modern bullet",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Battleaxe",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 4,
+					"value": 1000,
+					"weaponCategory": "martial",
+					"property": [
+						"V"
+					],
+					"dmg1": "1d8",
+					"dmgType": "S",
+					"dmg2": "1d10",
+					"axe": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Battleaxe",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 4,
+					"weaponCategory": "martial",
+					"property": [
+						"V"
+					],
+					"dmg1": "1d8",
+					"dmgType": "S",
+					"dmg2": "1d10",
+					"axe": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Blowgun",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "R",
+					"rarity": "none",
+					"weight": 1,
+					"value": 1000,
+					"weaponCategory": "martial",
+					"property": [
+						"A",
+						"LD"
+					],
+					"range": "25/100",
+					"dmg1": "1",
+					"dmgType": "P",
+					"weapon": true,
+					"ammoType": "blowgun needle|phb",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Blowgun",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 1,
+					"weaponCategory": "martial",
+					"property": [
+						"A",
+						"LD"
+					],
+					"range": "25/100",
+					"dmg1": "1",
+					"dmgType": "P",
+					"weapon": true,
+					"ammoType": "blowgun needle|phb",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Club",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 2,
+					"value": 10,
+					"weaponCategory": "simple",
+					"property": [
+						"L"
+					],
+					"dmg1": "1d4",
+					"dmgType": "B",
+					"club": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Club",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "simple",
+					"property": [
+						"L"
+					],
+					"dmg1": "1d4",
+					"dmgType": "B",
+					"club": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Dagger",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 1,
+					"value": 200,
+					"weaponCategory": "simple",
+					"property": [
+						"F",
+						"L",
+						"T"
+					],
+					"range": "20/60",
+					"dmg1": "1d4",
+					"dmgType": "P",
+					"dagger": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Dagger",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 1,
+					"weaponCategory": "simple",
+					"property": [
+						"F",
+						"L",
+						"T"
+					],
+					"range": "20/60",
+					"dmg1": "1d4",
+					"dmgType": "P",
+					"dagger": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Dart",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "R",
+					"rarity": "none",
+					"weight": 0.25,
+					"value": 5,
+					"weaponCategory": "simple",
+					"property": [
+						"F",
+						"T"
+					],
+					"range": "20/60",
+					"dmg1": "1d4",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Dart",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 0.25,
+					"weaponCategory": "simple",
+					"property": [
+						"F",
+						"T"
+					],
+					"range": "20/60",
+					"dmg1": "1d4",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Double-Bladed Scimitar",
+					"source": "ThePineappleChronicles",
+					"page": 21,
+					"otherSources": [
+						{
+							"source": "ThePineappleChronicles",
+							"page": 74
+						}
+					],
+					"type": "M",
+					"rarity": "none",
+					"weight": 6,
+					"value": 10000,
+					"weaponCategory": "martial",
+					"property": [
+						"S",
+						"2H"
+					],
+					"dmg1": "2d4",
+					"dmgType": "S",
+					"sword": true,
+					"weapon": true,
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Special",
+							"entries": [
+								"If you attack with a double-bladed scimitar as part of the {@action Attack} action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals {@dice 1d4} slashing damage on a hit, instead of {@dice 2d4}."
+							]
+						}
+					],
+					"hasFluff": true
+				},
+				"specificVariant": {
+					"name": "+3 Double-Bladed Scimitar",
+					"source": "ThePineappleChronicles",
+					"otherSources": [
+						{
+							"source": "ThePineappleChronicles",
+							"page": 74
+						}
+					],
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 6,
+					"weaponCategory": "martial",
+					"property": [
+						"S",
+						"2H"
+					],
+					"dmg1": "2d4",
+					"dmgType": "S",
+					"sword": true,
+					"weapon": true,
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Special",
+							"entries": [
+								"If you attack with a double-bladed scimitar as part of the {@action Attack} action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals {@dice 1d4} slashing damage on a hit, instead of {@dice 2d4}."
+							]
+						}
+					],
+					"hasFluff": true,
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Flail",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 2,
+					"value": 1000,
+					"weaponCategory": "martial",
+					"dmg1": "1d8",
+					"dmgType": "B",
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Flail",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "martial",
+					"dmg1": "1d8",
+					"dmgType": "B",
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Glaive",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 6,
+					"value": 2000,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"R",
+						"2H"
+					],
+					"dmg1": "1d10",
+					"dmgType": "S",
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Glaive",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 6,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"R",
+						"2H"
+					],
+					"dmg1": "1d10",
+					"dmgType": "S",
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Greataxe",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 7,
+					"value": 3000,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"2H"
+					],
+					"dmg1": "1d12",
+					"dmgType": "S",
+					"axe": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Greataxe",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 7,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"2H"
+					],
+					"dmg1": "1d12",
+					"dmgType": "S",
+					"axe": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Greatclub",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 10,
+					"value": 20,
+					"weaponCategory": "simple",
+					"property": [
+						"2H"
+					],
+					"dmg1": "1d8",
+					"dmgType": "B",
+					"club": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Greatclub",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 10,
+					"weaponCategory": "simple",
+					"property": [
+						"2H"
+					],
+					"dmg1": "1d8",
+					"dmgType": "B",
+					"club": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Greatsword",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 6,
+					"value": 5000,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"2H"
+					],
+					"dmg1": "2d6",
+					"dmgType": "S",
+					"sword": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Greatsword",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 6,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"2H"
+					],
+					"dmg1": "2d6",
+					"dmgType": "S",
+					"sword": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Halberd",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 6,
+					"value": 2000,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"R",
+						"2H"
+					],
+					"dmg1": "1d10",
+					"dmgType": "S",
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Halberd",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 6,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"R",
+						"2H"
+					],
+					"dmg1": "1d10",
+					"dmgType": "S",
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Hand Crossbow",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "R",
+					"rarity": "none",
+					"weight": 3,
+					"value": 7500,
+					"weaponCategory": "martial",
+					"property": [
+						"A",
+						"L",
+						"LD"
+					],
+					"range": "30/120",
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"crossbow": true,
+					"weapon": true,
+					"ammoType": "crossbow bolt|phb",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Hand Crossbow",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 3,
+					"weaponCategory": "martial",
+					"property": [
+						"A",
+						"L",
+						"LD"
+					],
+					"range": "30/120",
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"crossbow": true,
+					"weapon": true,
+					"ammoType": "crossbow bolt|phb",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Handaxe",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 2,
+					"value": 500,
+					"weaponCategory": "simple",
+					"property": [
+						"L",
+						"T"
+					],
+					"range": "20/60",
+					"dmg1": "1d6",
+					"dmgType": "S",
+					"axe": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Handaxe",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "simple",
+					"property": [
+						"L",
+						"T"
+					],
+					"range": "20/60",
+					"dmg1": "1d6",
+					"dmgType": "S",
+					"axe": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Heavy Crossbow",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "R",
+					"rarity": "none",
+					"weight": 18,
+					"value": 5000,
+					"weaponCategory": "martial",
+					"property": [
+						"A",
+						"H",
+						"LD",
+						"2H"
+					],
+					"range": "100/400",
+					"dmg1": "1d10",
+					"dmgType": "P",
+					"crossbow": true,
+					"weapon": true,
+					"ammoType": "crossbow bolt|phb",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Heavy Crossbow",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 18,
+					"weaponCategory": "martial",
+					"property": [
+						"A",
+						"H",
+						"LD",
+						"2H"
+					],
+					"range": "100/400",
+					"dmg1": "1d10",
+					"dmgType": "P",
+					"crossbow": true,
+					"weapon": true,
+					"ammoType": "crossbow bolt|phb",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Hooked Shortspear",
+					"source": "ThePineappleChronicles",
+					"page": 224,
+					"type": "M",
+					"rarity": "unknown",
+					"weight": 2,
+					"weaponCategory": "martial",
+					"property": [
+						"L"
+					],
+					"dmg1": "1d4",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": [
+						"On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall {@condition prone}. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus."
+					]
+				},
+				"specificVariant": {
+					"name": "+3 Hooked Shortspear",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "martial",
+					"property": [
+						"L"
+					],
+					"dmg1": "1d4",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": [
+						"On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall {@condition prone}. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus."
+					],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Hunting Rifle",
+					"source": "ThePineappleChronicles",
+					"page": 268,
+					"type": "R",
+					"rarity": "none",
+					"weight": 8,
+					"weaponCategory": "martial",
+					"age": "modern",
+					"property": [
+						"AF",
+						"RLD",
+						"2H"
+					],
+					"range": "80/240",
+					"reload": 5,
+					"dmg1": "2d10",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "modern bullet",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Hunting Rifle",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 8,
+					"weaponCategory": "martial",
+					"age": "modern",
+					"property": [
+						"AF",
+						"RLD",
+						"2H"
+					],
+					"range": "80/240",
+					"reload": 5,
+					"dmg1": "2d10",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "modern bullet",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Javelin",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 2,
+					"value": 50,
+					"weaponCategory": "simple",
+					"property": [
+						"T"
+					],
+					"range": "30/120",
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"spear": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Javelin",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "simple",
+					"property": [
+						"T"
+					],
+					"range": "30/120",
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"spear": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Lance",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 6,
+					"value": 1000,
+					"weaponCategory": "martial",
+					"property": [
+						"R",
+						"S"
+					],
+					"dmg1": "1d12",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Special",
+							"entries": [
+								"You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted."
+							]
+						}
+					]
+				},
+				"specificVariant": {
+					"name": "+3 Lance",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 6,
+					"weaponCategory": "martial",
+					"property": [
+						"R",
+						"S"
+					],
+					"dmg1": "1d12",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Special",
+							"entries": [
+								"You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted."
+							]
+						}
+					],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Laser Pistol",
+					"source": "ThePineappleChronicles",
+					"page": 268,
+					"type": "R",
+					"rarity": "none",
+					"weight": 2,
+					"weaponCategory": "martial",
+					"age": "futuristic",
+					"property": [
+						"AF",
+						"RLD"
+					],
+					"range": "30/120",
+					"reload": 50,
+					"dmg1": "3d6",
+					"dmgType": "R",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "energy cell",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Laser Pistol",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "martial",
+					"age": "futuristic",
+					"property": [
+						"AF",
+						"RLD"
+					],
+					"range": "30/120",
+					"reload": 50,
+					"dmg1": "3d6",
+					"dmgType": "R",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "energy cell",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Laser Rifle",
+					"source": "ThePineappleChronicles",
+					"page": 268,
+					"type": "R",
+					"rarity": "none",
+					"weight": 7,
+					"weaponCategory": "martial",
+					"age": "futuristic",
+					"property": [
+						"AF",
+						"RLD",
+						"2H"
+					],
+					"range": "100/300",
+					"reload": 30,
+					"dmg1": "3d8",
+					"dmgType": "R",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "energy cell",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Laser Rifle",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 7,
+					"weaponCategory": "martial",
+					"age": "futuristic",
+					"property": [
+						"AF",
+						"RLD",
+						"2H"
+					],
+					"range": "100/300",
+					"reload": 30,
+					"dmg1": "3d8",
+					"dmgType": "R",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "energy cell",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Light Crossbow",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "R",
+					"rarity": "none",
+					"weight": 5,
+					"value": 2500,
+					"weaponCategory": "simple",
+					"property": [
+						"A",
+						"LD",
+						"2H"
+					],
+					"range": "80/320",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"crossbow": true,
+					"weapon": true,
+					"ammoType": "crossbow bolt|phb",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Light Crossbow",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 5,
+					"weaponCategory": "simple",
+					"property": [
+						"A",
+						"LD",
+						"2H"
+					],
+					"range": "80/320",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"crossbow": true,
+					"weapon": true,
+					"ammoType": "crossbow bolt|phb",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Light Hammer",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 2,
+					"value": 200,
+					"weaponCategory": "simple",
+					"property": [
+						"L",
+						"T"
+					],
+					"range": "20/60",
+					"dmg1": "1d4",
+					"dmgType": "B",
+					"hammer": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Light Hammer",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "simple",
+					"property": [
+						"L",
+						"T"
+					],
+					"range": "20/60",
+					"dmg1": "1d4",
+					"dmgType": "B",
+					"hammer": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Light Repeating Crossbow",
+					"source": "ThePineappleChronicles",
+					"page": 224,
+					"type": "R",
+					"rarity": "unknown",
+					"weight": 5,
+					"weaponCategory": "simple",
+					"property": [
+						"A",
+						"2H"
+					],
+					"range": "40/160",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"crossbow": true,
+					"weapon": true,
+					"entries": [
+						"This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action."
+					],
+					"ammoType": "crossbow bolt|phb"
+				},
+				"specificVariant": {
+					"name": "+3 Light Repeating Crossbow",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 5,
+					"weaponCategory": "simple",
+					"property": [
+						"A",
+						"2H"
+					],
+					"range": "40/160",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"crossbow": true,
+					"weapon": true,
+					"entries": [
+						"This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action."
+					],
+					"ammoType": "crossbow bolt|phb",
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Longbow",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "R",
+					"rarity": "none",
+					"weight": 2,
+					"value": 5000,
+					"weaponCategory": "martial",
+					"property": [
+						"A",
+						"H",
+						"2H"
+					],
+					"range": "150/600",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"bow": true,
+					"weapon": true,
+					"ammoType": "arrow|phb",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Longbow",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "martial",
+					"property": [
+						"A",
+						"H",
+						"2H"
+					],
+					"range": "150/600",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"bow": true,
+					"weapon": true,
+					"ammoType": "arrow|phb",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Longsword",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 3,
+					"value": 1500,
+					"weaponCategory": "martial",
+					"property": [
+						"V"
+					],
+					"dmg1": "1d8",
+					"dmgType": "S",
+					"dmg2": "1d10",
+					"sword": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Longsword",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 3,
+					"weaponCategory": "martial",
+					"property": [
+						"V"
+					],
+					"dmg1": "1d8",
+					"dmgType": "S",
+					"dmg2": "1d10",
+					"sword": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Mace",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 4,
+					"value": 500,
+					"weaponCategory": "simple",
+					"dmg1": "1d6",
+					"dmgType": "B",
+					"mace": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Mace",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 4,
+					"weaponCategory": "simple",
+					"dmg1": "1d6",
+					"dmgType": "B",
+					"mace": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Maul",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 10,
+					"value": 1000,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"2H"
+					],
+					"dmg1": "2d6",
+					"dmgType": "B",
+					"hammer": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Maul",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 10,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"2H"
+					],
+					"dmg1": "2d6",
+					"dmgType": "B",
+					"hammer": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Morningstar",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 4,
+					"value": 1500,
+					"weaponCategory": "martial",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"mace": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Morningstar",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 4,
+					"weaponCategory": "martial",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"mace": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Musket",
+					"source": "ThePineappleChronicles",
+					"page": 268,
+					"type": "R",
+					"rarity": "none",
+					"weight": 10,
+					"value": 50000,
+					"weaponCategory": "martial",
+					"age": "renaissance",
+					"property": [
+						"AF",
+						"LD",
+						"2H"
+					],
+					"range": "40/120",
+					"dmg1": "1d12",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "renaissance bullet",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Musket",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 10,
+					"weaponCategory": "martial",
+					"age": "renaissance",
+					"property": [
+						"AF",
+						"LD",
+						"2H"
+					],
+					"range": "40/120",
+					"dmg1": "1d12",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "renaissance bullet",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Pike",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 18,
+					"value": 500,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"R",
+						"2H"
+					],
+					"dmg1": "1d10",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Pike",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 18,
+					"weaponCategory": "martial",
+					"property": [
+						"H",
+						"R",
+						"2H"
+					],
+					"dmg1": "1d10",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Pistol",
+					"source": "ThePineappleChronicles",
+					"page": 268,
+					"type": "R",
+					"rarity": "none",
+					"weight": 3,
+					"value": 25000,
+					"weaponCategory": "martial",
+					"age": "renaissance",
+					"property": [
+						"AF",
+						"LD"
+					],
+					"range": "30/90",
+					"dmg1": "1d10",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "renaissance bullet",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Pistol",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 3,
+					"weaponCategory": "martial",
+					"age": "renaissance",
+					"property": [
+						"AF",
+						"LD"
+					],
+					"range": "30/90",
+					"dmg1": "1d10",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "renaissance bullet",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Quarterstaff",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 4,
+					"value": 20,
+					"weaponCategory": "simple",
+					"property": [
+						"V"
+					],
+					"dmg1": "1d6",
+					"dmgType": "B",
+					"dmg2": "1d8",
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Quarterstaff",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 4,
+					"weaponCategory": "simple",
+					"property": [
+						"V"
+					],
+					"dmg1": "1d6",
+					"dmgType": "B",
+					"dmg2": "1d8",
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Rapier",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 2,
+					"value": 2500,
+					"weaponCategory": "martial",
+					"property": [
+						"F"
+					],
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"sword": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Rapier",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "martial",
+					"property": [
+						"F"
+					],
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"sword": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Revolver",
+					"source": "ThePineappleChronicles",
+					"page": 268,
+					"type": "R",
+					"rarity": "none",
+					"weight": 3,
+					"weaponCategory": "martial",
+					"age": "modern",
+					"property": [
+						"AF",
+						"RLD"
+					],
+					"range": "40/120",
+					"reload": 6,
+					"dmg1": "2d8",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "modern bullet",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Revolver",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 3,
+					"weaponCategory": "martial",
+					"age": "modern",
+					"property": [
+						"AF",
+						"RLD"
+					],
+					"range": "40/120",
+					"reload": 6,
+					"dmg1": "2d8",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "modern bullet",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Scimitar",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 3,
+					"value": 2500,
+					"weaponCategory": "martial",
+					"property": [
+						"F",
+						"L"
+					],
+					"dmg1": "1d6",
+					"dmgType": "S",
+					"sword": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Scimitar",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 3,
+					"weaponCategory": "martial",
+					"property": [
+						"F",
+						"L"
+					],
+					"dmg1": "1d6",
+					"dmgType": "S",
+					"sword": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Shortbow",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "R",
+					"rarity": "none",
+					"weight": 2,
+					"value": 2500,
+					"weaponCategory": "simple",
+					"property": [
+						"A",
+						"2H"
+					],
+					"range": "80/320",
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"bow": true,
+					"weapon": true,
+					"ammoType": "arrow|phb",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Shortbow",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "simple",
+					"property": [
+						"A",
+						"2H"
+					],
+					"range": "80/320",
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"bow": true,
+					"weapon": true,
+					"ammoType": "arrow|phb",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Shortsword",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 2,
+					"value": 1000,
+					"weaponCategory": "martial",
+					"property": [
+						"F",
+						"L"
+					],
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"sword": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Shortsword",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "martial",
+					"property": [
+						"F",
+						"L"
+					],
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"sword": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Shotgun",
+					"source": "ThePineappleChronicles",
+					"page": 268,
+					"type": "R",
+					"rarity": "none",
+					"weight": 7,
+					"weaponCategory": "martial",
+					"age": "modern",
+					"property": [
+						"AF",
+						"RLD",
+						"2H"
+					],
+					"range": "30/90",
+					"reload": 2,
+					"dmg1": "2d8",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "modern bullet",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Shotgun",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 7,
+					"weaponCategory": "martial",
+					"age": "modern",
+					"property": [
+						"AF",
+						"RLD",
+						"2H"
+					],
+					"range": "30/90",
+					"reload": 2,
+					"dmg1": "2d8",
+					"dmgType": "P",
+					"firearm": true,
+					"weapon": true,
+					"ammoType": "modern bullet",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Sickle",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 2,
+					"value": 100,
+					"weaponCategory": "simple",
+					"property": [
+						"L"
+					],
+					"dmg1": "1d4",
+					"dmgType": "S",
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Sickle",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "simple",
+					"property": [
+						"L"
+					],
+					"dmg1": "1d4",
+					"dmgType": "S",
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Sling",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "R",
+					"rarity": "none",
+					"value": 10,
+					"weaponCategory": "simple",
+					"property": [
+						"A"
+					],
+					"range": "30/120",
+					"dmg1": "1d4",
+					"dmgType": "B",
+					"weapon": true,
+					"ammoType": "sling bullet|phb",
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Sling",
+					"source": "ThePineappleChronicles",
+					"type": "R",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weaponCategory": "simple",
+					"property": [
+						"A"
+					],
+					"range": "30/120",
+					"dmg1": "1d4",
+					"dmgType": "B",
+					"weapon": true,
+					"ammoType": "sling bullet|phb",
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Spear",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 3,
+					"value": 100,
+					"weaponCategory": "simple",
+					"property": [
+						"T",
+						"V"
+					],
+					"range": "20/60",
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"dmg2": "1d8",
+					"spear": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Spear",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 3,
+					"weaponCategory": "simple",
+					"property": [
+						"T",
+						"V"
+					],
+					"range": "20/60",
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"dmg2": "1d8",
+					"spear": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Trident",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 4,
+					"value": 500,
+					"weaponCategory": "martial",
+					"property": [
+						"T",
+						"V"
+					],
+					"range": "20/60",
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"dmg2": "1d8",
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Trident",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 4,
+					"weaponCategory": "martial",
+					"property": [
+						"T",
+						"V"
+					],
+					"range": "20/60",
+					"dmg1": "1d6",
+					"dmgType": "P",
+					"dmg2": "1d8",
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "War Pick",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 2,
+					"value": 500,
+					"weaponCategory": "martial",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 War Pick",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "martial",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Warhammer",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 2,
+					"value": 1500,
+					"weaponCategory": "martial",
+					"property": [
+						"V"
+					],
+					"dmg1": "1d8",
+					"dmgType": "B",
+					"dmg2": "1d10",
+					"hammer": true,
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Warhammer",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 2,
+					"weaponCategory": "martial",
+					"property": [
+						"V"
+					],
+					"dmg1": "1d8",
+					"dmgType": "B",
+					"dmg2": "1d10",
+					"hammer": true,
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Whip",
+					"source": "ThePineappleChronicles",
+					"page": 149,
+					"srd": true,
+					"basicRules": true,
+					"type": "M",
+					"rarity": "none",
+					"weight": 3,
+					"value": 200,
+					"weaponCategory": "martial",
+					"property": [
+						"F",
+						"R"
+					],
+					"dmg1": "1d4",
+					"dmgType": "S",
+					"weapon": true,
+					"entries": []
+				},
+				"specificVariant": {
+					"name": "+3 Whip",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 3,
+					"weaponCategory": "martial",
+					"property": [
+						"F",
+						"R"
+					],
+					"dmg1": "1d4",
+					"dmgType": "S",
+					"weapon": true,
+					"entries": [],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			},
+			{
+				"base": {
+					"name": "Yklwa",
+					"source": "ThePineappleChronicles",
+					"page": 32,
+					"type": "M",
+					"rarity": "none",
+					"weight": 3,
+					"value": 100,
+					"weaponCategory": "simple",
+					"property": [
+						"T"
+					],
+					"range": "10/30",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": [
+						"A yklwa (pronounced YICK-ul-wah) is a simple melee weapon that is the traditional weapon of Chultan warriors. A yklwa consists of a 3-foot wooden shaft with a steel or stone blade up to 18 inches long. Although it has the thrown weapon property, the yklwa is not well balanced for throwing."
+					]
+				},
+				"specificVariant": {
+					"name": "+3 Yklwa",
+					"source": "ThePineappleChronicles",
+					"type": "M",
+					"rarity": "very rare", 
+		"value": 2500000,
+					"weight": 3,
+					"weaponCategory": "simple",
+					"property": [
+						"T"
+					],
+					"range": "10/30",
+					"dmg1": "1d8",
+					"dmgType": "P",
+					"weapon": true,
+					"entries": [
+						"A yklwa (pronounced YICK-ul-wah) is a simple melee weapon that is the traditional weapon of Chultan warriors. A yklwa consists of a 3-foot wooden shaft with a steel or stone blade up to 18 inches long. Although it has the thrown weapon property, the yklwa is not well balanced for throwing."
+					],
+					"page": 213,
+					"srd": true,
+					"basicRules": true,
+					"tier": "major",
+					"bonusWeapon": "+3",
+					"lootTables": [
+						"Magic Item Table H"
+					],
+					"genericVariant": {
+						"name": "+3 Weapon",
+						"source": "DMG"
+					}
+				}
+			}
+		]
+	},
+	{
+		"name": "Rope of Entanglement",
+		"source": "ThePineappleChronicles",
+		"page": 197,
+		"srd": true,
+		"tier": "major",
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"weight": 3,
+		"entries": [
+			"This rope is 30 feet long and weighs 3 pounds. If you hold one end of the rope and use an action to speak its command word, the other end darts forward to entangle a creature you can see within 20 feet of you. The target must succeed on a DC 15 Dexterity saving throw or become {@condition restrained}.",
+			"You can release the creature by using a bonus action to speak a second command word. A target {@condition restrained} by the rope can use an action to make a DC 15 Strength or Dexterity check (target's choice). On a success, the creature is no longer {@condition restrained} by the rope.",
+			"The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed."
+		],
+		"lootTables": [
+			"Magic Item Table G"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Necklace of Fireballs",
+		"source": "ThePineappleChronicles",
+		"page": 182,
+		"srd": true,
+		"tier": "minor",
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"weight": 1,
+		"entries": [
+			"This necklace has {@dice 1d6 + 3} beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level {@spell fireball} spell (save DC 15).",
+			"You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the level of the {@spell fireball} by 1 for each bead beyond the first."
+		],
+		"attachedSpells": [
+			"fireball"
+		],
+		"lootTables": [
+			"Magic Item Table C"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Iron Bands of Bilarro",
+		"source": "ThePineappleChronicles",
+		"page": 177,
+		"srd": "Iron Bands of Binding",
+		"tier": "major",
+		"rarity": "rare", 
+		"value": 250000,
+		"wondrous": true,
+		"weight": 1,
+		"entries": [
+			"This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, it opens into a tangle of metal bands.",
+			"Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the target is {@condition restrained} until you take a bonus action to speak the command word again to release it. Doing so, or missing with the attack, causes the bands to contract and become a sphere once more.",
+			"A creature, including the one {@condition restrained}, can use an action to make a DC 20 Strength check to break the iron bands. On a success, the item is destroyed, and the {@condition restrained} creature is freed. If the check fails, any further attempts made by that creature automatically fail until 24 hours have elapsed.",
+			"Once the bands are used, they can't be used again until the next dawn."
+		],
+		"lootTables": [
+			"Magic Item Table G"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Dust of Deliciousness",
+		"source": "ThePineappleChronicles",
+		"page": 267,
+		"rarity": "uncommon", 
+		"value": 12500,
+		"wondrous": true,
+		"entries": [
+			"This reddish brown dust can be sprinkled over any edible substance to greatly improve the flavor. The dust also dulls the eater's senses: anyone eating food treated with this dust has disadvantage on Wisdom ability checks and Wisdom saving throws for 1 hour. There is enough dust to flavor six servings."
+		]
+	},
+	{
+		"name": "Nether Scroll of Azumar",
+		"source": "ThePineappleChronicles",
+		"page": 210,
+		"type": "SC",
+		"rarity": "legendary",
+		"entries": [
+			"Unlike most scrolls, a Nether Scroll of Azumar is not a consumable magic item. It takes 30 days of concentrated study—at least 8 hours per day—to attempt to understand this scroll. After completing this study, you must make a DC 25 Intelligence ({@skill Arcana}) check. If this check fails, you take {@damage 16d10} psychic damage, and you can attempt the check again after another 30 days of concentrated study.",
+			"When you succeed on the check, you gain the following benefits:",
+			{
+				"type": "list",
+				"items": [
+					"Your Intelligence score increases by 2, to a maximum of 22. Once you gain this benefit, you can't use this scroll to increase your Intelligence again.",
+					"You gain advantage on saving throws against spells and other magical effects."
+				]
+			},
+			"When you gain the scroll's benefits, a {@creature stone golem} magically appears in an unoccupied space within 60 feet of you and acts as your ally. If you die, the golem turns to dust."
+		]
+	},
+	{
+		"name": "Potion of Maximum Power",
+		"source": "ThePineappleChronicles",
+		"page": 268,
+		"type": "P",
+		"rarity": "rare", 
+		"value": 125000,
+		"entries": [
+			"The first time you cast a damage-dealing spell of 4th level or lower within 1 minute after drinking the potion, instead of rolling dice to determine the damage dealt, you can instead use the highest number possible for each die.",
+			"This glowing purple liquid smells of sugar and plum, but it has a muddy taste."
+		]
+	},
+	{
+		"name": "Wakened Dragon Vessel",
+		"source": "ThePineappleChronicles",
+		"page": 27,
+		"rarity": "very rare", 
+		"value": 2500000,
+		"reqAttune": true,
+		"wondrous": true,
+		"entries": [
+			"This vessel can be a potion bottle, drinking horn, or other container meant to hold a liquid.",
+			"As a bonus action, if the vessel is empty, you can speak the command word to fill the vessel with one of the following (your choice): ale, olive oil, mead, wine, a {@item potion of healing}, a {@item potion of greater healing}, a {@item potion of superior healing}, a {@item potion of climbing}, a {@item potion of fire breath}, or a {@item potion of flying}. Once this property is used, it can't be used until the next dawn. A potion you create in this way loses its magical properties if it isn't imbibed within 24 hours."
+		]
+	},
+	{
+		"name": "Peregrine Mask",
+		"source": "ThePineappleChronicles",
+		"page": 180,
+		"rarity": "very rare", 
+		"value": 2500000,
+		"reqAttune": true,
+		"wondrous": true,
+		"modifySpeed": {
+			"static": {
+				"fly": 60
+			}
+		},
+		"entries": [
+			"While wearing this winged helm, you have a flying speed of 60 feet. In addition, you have advantage on initiative rolls."
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Illusionist's Bracers",
+		"source": "ThePineappleChronicles",
+		"page": 178,
+		"rarity": "very rare", 
+		"value": 2500000,
+		"reqAttune": "by a spellcaster",
+		"reqAttuneTags": [
+			{
+				"spellcasting": true
+			}
+		],
+		"wondrous": true,
+		"entries": [
+			"A powerful illusionist of House Dimir originally developed these bracers, which enabled her to create multiple minor illusions at once. The bracers' power, though, extends far beyond illusions.",
+			"While wearing the bracers, whenever you cast a cantrip, you can use a bonus action on the same turn to cast that cantrip a second time."
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Rod of Security",
+		"source": "ThePineappleChronicles",
+		"page": 197,
+		"srd": true,
+		"type": "RD",
+		"tier": "major",
+		"rarity": "very rare", 
+		"value": 2500000,
+		"weight": 2,
+		"entries": [
+			"While holding this rod, you can use an action to activate it. The rod then instantly transports you and up to 199 other willing creatures you can see to a paradise that exists in an extraplanar space. You choose the form that the paradise takes. It could be a tranquil garden, lovely glade, cheery tavern, immense palace, tropical island, fantastic carnival, or whatever else you can imagine. Regardless of its nature, the paradise contains enough water and food to sustain its visitors. Everything else that can be interacted with inside the extraplanar space can exist only there. For example, a flower picked from a garden in the paradise disappears if it is taken outside the extraplanar space.",
+			"For each hour spent in the paradise, a visitor regains hit points as if it had spent 1 Hit Die. Also, creatures don't age while in the paradise, although time passes normally. Visitors can remain in the paradise for up to 200 days divided by the number of creatures present (round down).",
+			"When the time runs out or you use an action to end it, all visitors reappear in the location they occupied when you activated the rod, or an unoccupied space nearest that location. The rod can't be used again until ten days have passed."
+		],
+		"lootTables": [
+			"Magic Item Table H"
+		]
+	},
+	{
+		"name": "Crystal Ball",
+		"source": "ThePineappleChronicles",
+		"page": 159,
+		"srd": true,
+		"tier": "major",
+		"rarity": "very rare", 
+		"value": 2500000,
+		"reqAttune": true,
+		"wondrous": true,
+		"weight": 3,
+		"entries": [
+			"This crystal ball is about 6 inches in diameter. While touching it, you can cast the {@spell scrying} spell (save DC 17) with it."
+		],
+		"attachedSpells": [
+			"scrying"
+		],
+		"lootTables": [
+			"Magic Item Table H"
+		]
+	},
+	{
+		"name": "Cauldron of Rebirth",
+		"source": "ThePineappleChronicles",
+		"page": 122,
+		"rarity": "very rare", 
+		"value": 2500000,
+		"reqAttune": "by a druid or warlock",
+		"reqAttuneTags": [
+			{
+				"class": "druid"
+			},
+			{
+				"class": "warlock"
+			}
+		],
+		"wondrous": true,
+		"weight": 0.01,
+		"entries": [
+			"This Tiny pot bears relief scenes of heroes on its cast iron sides. You can use the cauldron as a spellcasting focus for your spells, and it functions as a suitable component for the {@spell scrying} spell. When you finish a long rest, you can use the cauldron to create a {@item potion of greater healing}. The potion lasts for 24 hours, then loses its magic if not consumed.",
+			"As an action, you can cause the cauldron to grow large enough for a Medium creature to crouch within. You can revert the cauldron to its normal size as an action, harmlessly shunting anything that can't fit inside to the nearest unoccupied space.",
+			"If you place the corpse of a humanoid into the cauldron and cover the corpse with 200 pounds of salt (which costs 10 gp) for at least 8 hours, the salt is consumed and the creature returns to life as if by {@spell raise dead} at the next dawn. Once used, this property can't be used again for 7 days."
+		],
+		"attachedSpells": [
+			"raise dead",
+			"scrying"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Conch of Teleportation",
+		"source": "ThePineappleChronicles",
+		"page": 234,
+		"rarity": "very rare", 
+		"value": 2500000,
+		"reqAttune": true,
+		"wondrous": true,
+		"entries": [
+			"This item is an ordinary, albeit rather large, conch shell that has been inscribed with the uvar rune. The conch measures 2½ feet long and weighs 20 pounds.",
+			"As an action, you can cast the {@spell teleport} spell by blowing into the shell. The destination is fixed, and there is no chance of either a mishap or the spell being off target. Anyone teleported by the conch appears in a specific location designated by the item's creator at the time the uvar rune is inscribed on the conch. It doesn't allow teleportation to any other destination. Once its spell is cast, the conch can't be used again until the next dawn."
+		],
+		"attachedSpells": [
+			"teleport"
+		],
+		"hasFluffImages": true
+	},
+	{
+		"name": "Ring of Free Action",
+		"source": "ThePineappleChronicles",
+		"page": 191,
+		"srd": true,
+		"type": "RG",
+		"tier": "major",
+		"rarity": "rare", 
+		"value": 250000,
+		"reqAttune": true,
+		"entries": [
+			"While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be {@condition paralyzed} or {@condition restrained}."
+		],
+		"lootTables": [
+			"Magic Item Table G"
+		],
+		"hasFluffImages": true
+	}
+]
+}
